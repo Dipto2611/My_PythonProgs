@@ -1,14 +1,12 @@
 #to print cities using func
 
-cities=["Silchar","Ghy","Jorhat","Dibrugarh","Shillong","Bpb"]
+cities=["Silchar","Ghy","Jorhat","Dibrugarh","Shillong","Badarpur"]
 
 def print_city(list):       #func defination
     #print(len(list))
 
     for vals in list:
         print(vals, end=" ")
-
-
 
 
 print_city(cities)          #fucntion call

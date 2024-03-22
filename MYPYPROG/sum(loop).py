@@ -1,4 +1,5 @@
 #find sum using while
+
 n=int(input("Enter no:"))
 sum=0
 i = 1
@@ -7,6 +8,7 @@ while i <= n:
     i=i+1
 print("total sum =",sum)
 
+################################
 
 #for loop
 

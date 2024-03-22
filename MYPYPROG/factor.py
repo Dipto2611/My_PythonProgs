@@ -1,3 +1,5 @@
+#find factors of a num using func
+
 n=int(input("Enter a no:"))
 def factors(n):
     flist=[]

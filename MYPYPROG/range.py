@@ -1,9 +1,7 @@
 for i in range(1,11):
     print(i)
 
-
 print("\n")
-
 
 ##print table using range
 num=int(input("ENTER NO:"))
